@@ -1,0 +1,6 @@
+INSTRUCTIONS v0.1
+=======================
+To register the Assembly with your Database execute the "PersianDate Register.sql" script against your Database (don't forget to change the @Path variable).
+Then run the Provided Test Script against the Database to see if everything went well !
+
+You can study the Test script to familiarize yourself with PersianDate and PersianDateTime value types.
